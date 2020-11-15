@@ -1,5 +1,10 @@
 # AdjustCarreau
+
+![alt text](https://github.com/gaabnuneses/AdjustCarreau/blob/main/measured.png?raw=true)
+
 Fit a Carreau curve to a set of measured points in a flowcurve using Julia language.
+
+<img src="https://render.githubusercontent.com/render/math?math=\mu(\dot{\gamma})=\mu_\infty %2B (\mu_0-\mu_\infty)\cdot(1 %2B(\lambda\cdot\dot{\gamma})^2)^{\frac{N-1}{2}}">
 
 ## Initialization
 Assign a column vector to each variable x,y.
